@@ -87,7 +87,7 @@ function App() {
              cursor: "pointer",
            }}
          >
-           Add Friend
+           Select
          </button>
        </div>
      </div> 
